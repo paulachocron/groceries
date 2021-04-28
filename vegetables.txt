@@ -1,5 +1,1 @@
-bananas
-tomatoes
-eggplant
-pumpkin
-avocado
+Don't let me have the power of closing pull requests, or I will delete everything!
