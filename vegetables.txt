@@ -3,3 +3,5 @@ tomatoes
 eggplant
 pumpkin
 avocado
+apples
+kiwi
